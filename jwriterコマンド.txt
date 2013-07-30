@@ -1,0 +1,3 @@
+jwriter -auto c:\lscc\workspace\FPGAtoMOTER\FPGAtoMOTER_FPGAtoMOTER.jed
+
+jwriter -auto c:\lscc\workspace\FAGA10m\FAGA10m_FAGA10m.jed
